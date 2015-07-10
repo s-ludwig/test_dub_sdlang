@@ -1,0 +1,5 @@
+name "test_dub_sdlang"
+description "A minimal D application."
+copyright "Copyright © 2015, Sönke Ludwig"
+authors "Sönke Ludwig"
+license "Public domain"
